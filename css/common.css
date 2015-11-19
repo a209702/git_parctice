@@ -9,3 +9,7 @@ nav ul {
 nav ul a li {
   list-style: none;
 }
+
+select ul {
+  text-align: left;
+}
